@@ -2,10 +2,6 @@
 
 ## Revistas Científicas:
 
-## **``` Año 2023 ```** 
-
-* del Valle, H. F., Metternicht, G. I., Tentor, F., Sione, W. F., Zamboni, P., Mayer, F. V., & Aceñolaza, P. G. (2023). Synergistic Use of Radar and Optical Image Data for Improved Land Use and Land Cover Assessment: A Case Study in the North of Entre Rios Province (Argentina). In Geopedology: An Integration of Geomorphology and Pedology for Soil and Landscape Studies (pp. 283-314). Cham: Springer International Publishing.
-
 ## **``` Año 2022 ```**  
 
 * Del Valle, H.; Sione,W.F.; Aceñolaza, P.G. 2022. Wetland Fire Assessment and Monitoring in the Paraná River Delta, Using Radar and Optical Data for Burnt Area Mapping. Fire 2022, 5, 190. https://doi.org/10.3390/fire5060190.
@@ -163,6 +159,10 @@ Castro Díaz, R.; Zamboni, L.P.; Sione, W.; Aceñolaza, P.G. 2018. Elementos ter
 
 
 ## Libros y Capítulos de libros:
+
+## **``` Año 2023 ```** 
+
+* del Valle, H. F., Metternicht, G. I., Tentor, F., Sione, W. F., Zamboni, P., Mayer, F. V., & Aceñolaza, P. G. (2023). Synergistic Use of Radar and Optical Image Data for Improved Land Use and Land Cover Assessment: A Case Study in the North of Entre Rios Province (Argentina). In Geopedology: An Integration of Geomorphology and Pedology for Soil and Landscape Studies (pp. 283-314). Cham: Springer International Publishing.
 
 ## **``` Año 2021 ```**  
 
