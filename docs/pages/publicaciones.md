@@ -4,7 +4,7 @@
 
 ## **``` Año 2023 ```** 
 
-del Valle, H. F., Metternicht, G. I., Tentor, F., Sione, W. F., Zamboni, P., Mayer, F. V., & Aceñolaza, P. G. (2023). Synergistic Use of Radar and Optical Image Data for Improved Land Use and Land Cover Assessment: A Case Study in the North of Entre Rios Province (Argentina). In Geopedology: An Integration of Geomorphology and Pedology for Soil and Landscape Studies (pp. 283-314). Cham: Springer International Publishing.
+* del Valle, H. F., Metternicht, G. I., Tentor, F., Sione, W. F., Zamboni, P., Mayer, F. V., & Aceñolaza, P. G. (2023). Synergistic Use of Radar and Optical Image Data for Improved Land Use and Land Cover Assessment: A Case Study in the North of Entre Rios Province (Argentina). In Geopedology: An Integration of Geomorphology and Pedology for Soil and Landscape Studies (pp. 283-314). Cham: Springer International Publishing.
 
 ## **``` Año 2022 ```**  
 
