@@ -6,7 +6,7 @@
 <iframe src="https://ceregeo.github.io/Suelos_ER/" height="600" width="800" name="iframe_a" title="Carta de Suelos"></iframe>
 <p><a href="https://ide-suelo.s3.amazonaws.com/suelos_ER.zip" target="iframe_a">Descarga</a></p>
 
-<!-- ![](../images/mapa_carta_suelo.jpg) -->
+<!-- ![](../images/mapa_carta_suelo.jpg) 
 
 
  <button>
@@ -16,3 +16,4 @@
             </button>
 
 
+-->
