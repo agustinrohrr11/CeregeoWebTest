@@ -62,7 +62,7 @@ Facultad de Ciencia y Tecnología – Subsede Oro Verde
 Universidad Autónoma de Entre Ríos  
 lauracsantoni@gmail.com  
 
-Est. Facundo Boladeras (Becario CIN)  
+Est. Facundo Boladeras (Becario CONICET)  
 Centro Regional de Geomática  
 Facultad de Ciencia y Tecnología – Subsede Oro Verde  
 Universidad Autónoma de Entre Ríos  
