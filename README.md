@@ -1,6 +1,6 @@
 # Ceregeo
 
-## Sitio del Centro Regional de Geomática FCyT UADER
+## Sitio de prueba de la web page del Centro Regional de Geomática FCyT UADER
 
 
-[Link](https://ceregeo.github.io/Ceregeo/)
+[Link](https://agustinrohrr11.github.io/CeregeoWebTest/)
